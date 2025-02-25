@@ -62,4 +62,4 @@ Address: [Your Physical Address]
 
 ## Copyright Notice
 
-© 2025 Nicztining. All rights reserved. Unauthorized use and/or duplication of this material without express and written permission from this site’s author and/or owner is strictly prohibited.
+© Nicztining. All rights reserved. Unauthorized use and/or duplication of this material without express and written permission from this site’s author and/or owner is strictly prohibited.
