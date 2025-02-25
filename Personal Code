@@ -1,0 +1,62 @@
+# Personal Code Repository
+
+To create a personal code repository, we'll set up a basic structure for you. This repository will include a README file, a license, and a main code file. Here is an example setup:
+
+This repository contains personal code projects and experiments by Nicztin. Feel free to explore, use, and contribute to the projects.
+
+## Projects
+
+- **Project 1**: Description of the first project.
+- **Project 2**: Description of the second project.
+
+## Setup
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Nicztin/personal-code-repo.git
+   cd personal-code-repo
+   ```
+
+2. Install dependencies (if any):
+   ```bash
+   npm install
+   ```
+
+3. Run the code:
+   ```bash
+   npm start
+   ```
+
+## Contributing 
+
+[Example](https://github.com/copilot/share/0a4a40ae-0364-8886-b813-8a4304e949d5)
+
+Contributions are welcome! Please open an issue or submit a pull request with your changes.
+
+## License
+
+This project is licensed under the MIT License.
+
+# Global New Technologies and General Lessons
+
+## Global New Technologies
+
+### 1. CRISPR Biotechnology
+CRISPR biotechnology has created significant changes in the field of biology. It allows scientists to precisely edit proteins and DNA. This can help reduce certain diseases and improve agricultural technology.
+
+### 2. Blockchain Technology
+Blockchain is a technology that has gained significant interest for ensuring secure and transparent data systems in various fields. Blockchain is used in cryptocurrencies as well as digital contracts and digital identity management.
+
+### 3. AI and Machine Learning Technologies
+AI and Machine Learning technologies have brought about numerous changes in business and science fields. They can analyze large amounts of data and predict problems in advance to provide effective solutions.
+
+## General Lessons
+
+### 1. Understanding Time Management
+Time management is an essential skill for everyone. It can help you work more efficiently and enhance your daily living capabilities.
+
+### 2. Building Good Relationships
+Good relationships are crucial for social life and business. Creating and maintaining good relationships with others can help you achieve success and happiness in life.
+
+### 3. Lifelong Learning
+Learning is an important part of personal and professional growth. Continuously seeking and acquiring new knowledge can help you advance in your career and personal life.
