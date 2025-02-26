@@ -1,10 +1,75 @@
 # Bringing AI Avatars to Life—Step by Step! 🚀
 
+![Avatar color ai](https://pin.it/2z2K7hEjP)
+
+# Creating a Colorful Avatar: A Comprehensive Guide
+
+Creating a colorful avatar can be done using various methods depending on the tools or software you have available. Here's a general guide you can follow:
+
+## **1. Using Graphic Design Tools (Photoshop, Canva, Illustrator, etc.)**
+If you are comfortable with design software, you can create a custom colorful avatar with these steps:
+
+### a) **Plan Your Design**
+   - Think about the overall look: Do you want a human avatar, abstract shapes, geometric designs, or something unique?
+   - Decide on a color scheme: You can use tools like [Coolors](https://coolors.co) to generate a vibrant palette.
+
+### b) **Sketch the Avatar (Optional)**
+   - Open your preferred software and sketch the avatar's outline. If you're not comfortable drawing, you can use a pre-made template or avatar generator available in design tools.
+
+### c) **Add Colors**
+   - Use solid fills or gradients to add color to parts of the avatar.
+   - Apply layers of vibrant tones to make it pop.
+
+### d) **Use Layer Effects**
+   - Add highlights, shadows, and blending effects to create dimensionality in your avatar while keeping it colorful.
+   - Use patterns or digital textures to make the colors more dynamic.
+
+### e) **Export Your Avatar**
+   - Save it in the format you need for your platform (PNG for transparent backgrounds, JPG for smaller files).
+
+## **2. Using Online Avatar Generators**
+If you don’t want to create an avatar manually, you can use colorful avatar generation tools:
+
+### Recommendations:
+- **Picrew**: A fun, customizable avatar maker that often allows vibrant designs.
+  - Website: [https://picrew.me/](https://picrew.me/)
+  
+- **Avatoon**: A mobile app to create colorful and cartoonish avatars.
+  - Available on Google Play and App Store.
+
+- **Avatarify** or similar tools: Automatically generate artistic, colorful avatars based on your photos.
+
+## **3. Add Color Using AI Tools**
+AI-based tools (like Adobe Firefly, Canva’s Magic tools, or Fotor) can help you upload and recolor an avatar with creative, vibrant touches.
+
+### Steps:
+1. Upload a basic avatar image (from photos, sketches, or templates).
+2. Use the tool’s settings to enhance the image with colorful artistic styles.
+3. Add gradients, patterns, or artistic filters to inject vibrancy.
+
+## **4. Digital Illustration**
+If you'd like to fully customize your avatar:
+1. Use a drawing tablet and software like **Procreate**, **Krita**, or **Adobe Fresco**.
+2. Create your avatar doodle in layers, and choose bright, bold strokes for maximum color impact.
+3. Blend colors and experiment with techniques like "Rainbow Overlay" or neon to make it vibrant.
+
+### Popular Effects for Colorful Avatars:
+- **Gradients**: Blend multiple colors smoothly across the avatar.
+- **Neon Effects**: Add a glowing outline or elements to the avatar.
+- **Rainbow Overlay**: Use a color modulation that cycles through the seven colors of a rainbow.
+- **Geometric Colors**: Break the avatar into geometric shapes and fill them with different colors.
+
+---
+
+Bright and colorful avatars stand out, so have fun experimenting until your avatar looks perfect!
+
 From image generation to animation and voice synthesis, the future of digital personas is here. #AI #Avatar #TechInnovation
 
 [How it works](https://youtu.be/Eu--ogaUAwc?si=yGFpSOB3GFWmJkDY)
 
 Creating an AI-generated avatar involves multiple steps. Here’s a step-by-step guide to generating an AI avatar from scratch, including image generation, animation, and voice synthesis.
+
+![Avatar Look like](https://pin.it/279zmUzqx)
 
 ---
 
@@ -364,6 +429,61 @@ plt.ylabel('y')
 # Show plot
 plt.show()
 ```
+
+# Avatar Creator For Internet Computer
+We created this for the Supernova Hackathon, [read about our submission here](https://devpost.com/software/open-character-creator-minter)
+
+## An open, collaborative and evolving character creator project for the open metaverse.
+
+![Screenshot 2022-07-11 032822](https://user-images.githubusercontent.com/64185677/204121337-be2fc177-30d3-41f3-ac87-54a017721e52.png)
+
+Want to contribute? Please check out the [issues](https://github.com/AtlasFoundation/AvatarCreator/issues), or submit a pull request.
+
+# Quick Start
+For Internet Computer support you will need to install dfx and run "dfx deploy" after installing node_modules but before running npm run dev. You can get more information on setting dfx up [here](https://smartcontracts.org/docs/developers-guide/quickstart.html)
+
+You will also need to download [Psychedelic Dab.js Package](https://github.com/Psychedelic/DAB-js#interaction-guide).
+
+```
+sh -ci "$(curl -fsSL https://smartcontracts.org/install.sh)"
+npm install
+dfx deploy
+npm run dev
+```
+
+## Interaction guide
+
+To pull and install from @Psychedelic via the NPM CLI, you'll need:
+
+### A Github account
+
+A Github personal access token you can [create a personal acess token here](https://github.com/settings/tokens)
+The personal access token with the correct scopes, **repo** and **read:packages** to be granted access to the [GitHub Package Registry](https://docs.github.com/en/packages/working-with-a-github-package-registry)
+Authentication via npm login, using your Github email for the username and the personal access token as your password:
+
+Once you have those ready, run:
+```
+npm login --registry=https://npm.pkg.github.com --scope=@psychedelic
+```
+Note: *You only need to configure this once to install the package!*
+
+On npm login provide your Github email as your username and the Personal access token as the password. You can also setup your npm global settings to fetch from the Github registry everytime it finds a package scope.
+
+⚠️ Alternatively, a token could be passed to the .npmrc as //npm.pkg.github.com/:_authToken=xxxxxx but we'd like to keep it clean and tokenless.
+
+## Setting up DAB-js in your project
+First, you need to install the DAB-js npm package into your project.
+
+You can do so from the command line:
+```
+npm install @psychedelic/dab-js@latest
+```
+Find more details about [installing dab jshere](https://github.com/Psychedelic/DAB-js/packages/987540)
+
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
+
 ## Usage
 1. **Preprocess the Dataset**: Run `preprocess.py` to preprocess the images in your dataset.
 2. **Train the Model**: Run `train_model.py` to train the AI model on the preprocessed images.
@@ -374,4 +494,4 @@ plt.show()
 This project is licensed under the MIT License. See the [LICENSE](https://github.com/Nicztin/ing?tab=CC0-1.0-1-ov-file) file for details.
 
 ## Author
-Nicztin
+[Nicztin](https://youtube.com/@nicztining?si=sWJDgmNG58RZD8t2)
