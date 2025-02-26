@@ -1,6 +1,17 @@
 # Bringing AI Avatars to Life—Step by Step! 🚀
 
-![Avatar color ai](https://pin.it/2z2K7hEjP)
+Before getting started with creating an AI avatar, you can watch a video first to get an overview. 😁
+
+## Video Tutorial
+
+[![Watch the video](https://img.youtube.com/vi/Eu--ogaUAwc/hqdefault.jpg)](https://youtu.be/Eu--ogaUAwc?si=7sJEWrHg4Ap3S9GJ)
+
+Click the image above to watch the video tutorial.
+
+## Other Sections
+
+By following these steps, you can create and share a video similar to the one you provided. 
+
 
 # Creating a Colorful Avatar: A Comprehensive Guide
 
