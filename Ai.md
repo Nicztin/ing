@@ -2,6 +2,8 @@
 
 From image generation to animation and voice synthesis, the future of digital personas is here. #AI #Avatar #TechInnovation
 
+[How it works](https://youtu.be/Eu--ogaUAwc?si=yGFpSOB3GFWmJkDY)
+
 Creating an AI-generated avatar involves multiple steps. Here’s a step-by-step guide to generating an AI avatar from scratch, including image generation, animation, and voice synthesis.
 
 ---
