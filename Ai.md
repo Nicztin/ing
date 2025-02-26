@@ -245,7 +245,7 @@ Now you have a 3D animated AI avatar!
 
 Let me know if you need 2D, animated, or 3D avatars, and I can guide you based on your needs!
 
-[video](https://youtube.com/shorts/ZP9fTeIkumw?si=3kVEZQqNXxWn_cjC)
+[video](https://youtube.com/shorts/Jn4mREDN4Xc?si=P9_xjfNxMtcy9KxI)
 
 # AI Avatar Creation
 
