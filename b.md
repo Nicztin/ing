@@ -53,7 +53,7 @@ ing/
 
 ### Visit Your Blog
 
-Your blog should now be live at [https://nicztin.github.io/ing](https://nicztin.github.io/ing).
+Your blog should now be live at [https://nicztin.github.io/ing](https://docs.github.com/en/pages).
 
 ## Adding New Posts
 
