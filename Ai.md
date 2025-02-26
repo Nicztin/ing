@@ -80,7 +80,7 @@ From image generation to animation and voice synthesis, the future of digital pe
 
 Creating an AI-generated avatar involves multiple steps. Here’s a step-by-step guide to generating an AI avatar from scratch, including image generation, animation, and voice synthesis.
 
-![Avatar Look like](https://pin.it/279zmUzqx)
+[Avatar Unlock](https://youtube.com/shorts/qw52PYJS-7g?si=9GgsIPqad303Eu7l)
 
 ---
 
