@@ -1,0 +1,39 @@
+- **Files:**
+  - [README.md](https://github.com/github/docs/blob/main/content/README.md): A Markdown file likely containing an overview or introduction to the content directory.
+  - [index.md](https://github.com/github/docs/blob/main/content/index.md): Another Markdown file, possibly serving as an index or landing page for the documentation.
+
+- **Directories:**
+  - [account-and-profile](https://github.com/github/docs/tree/main/content/account-and-profile): Contains documentation related to account and profile management.
+  - [actions](https://github.com/github/docs/tree/main/content/actions): Contains documentation related to GitHub Actions.
+  - [admin](https://github.com/github/docs/tree/main/content/admin): Contains documentation for administrative tasks.
+  - [apps](https://github.com/github/docs/tree/main/content/apps): Contains documentation related to GitHub Apps.
+  - [authentication](https://github.com/github/docs/tree/main/content/authentication): Contains documentation related to authentication processes.
+  - [billing](https://github.com/github/docs/tree/main/content/billing): Contains documentation related to billing and payments.
+  - [code-security](https://github.com/github/docs/tree/main/content/code-security): Contains documentation related to code security.
+  - [codespaces](https://github.com/github/docs/tree/main/content/codespaces): Contains documentation related to GitHub Codespaces.
+  - [communities](https://github.com/github/docs/tree/main/content/communities): Contains documentation related to community management.
+  - [contributing](https://github.com/github/docs/tree/main/content/contributing): Contains documentation for contributing to projects.
+  - [copilot](https://github.com/github/docs/tree/main/content/copilot): Contains documentation related to GitHub Copilot.
+  - [desktop](https://github.com/github/docs/tree/main/content/desktop): Contains documentation related to GitHub Desktop.
+  - [discussions](https://github.com/github/docs/tree/main/content/discussions): Contains documentation related to GitHub Discussions.
+  - [education](https://github.com/github/docs/tree/main/content/education): Contains documentation for educational purposes.
+  - [enterprise-onboarding](https://github.com/github/docs/tree/main/content/enterprise-onboarding): Contains documentation for enterprise onboarding.
+  - [get-started](https://github.com/github/docs/tree/main/content/get-started): Contains documentation for getting started with GitHub.
+  - [github-cli](https://github.com/github/docs/tree/main/content/github-cli): Contains documentation related to GitHub CLI.
+  - [github-models](https://github.com/github/docs/tree/main/content/github-models): Contains documentation related to GitHub Models.
+  - [graphql](https://github.com/github/docs/tree/main/content/graphql): Contains documentation related to GitHub's GraphQL API.
+  - [issues](https://github.com/github/docs/tree/main/content/issues): Contains documentation related to GitHub Issues.
+  - [migrations](https://github.com/github/docs/tree/main/content/migrations): Contains documentation related to migrations.
+  - [organizations](https://github.com/github/docs/tree/main/content/organizations): Contains documentation related to organizations.
+  - [packages](https://github.com/github/docs/tree/main/content/packages): Contains documentation related to GitHub Packages.
+  - [pages](https://github.com/github/docs/tree/main/content/pages): Contains documentation related to GitHub Pages.
+  - [pull-requests](https://github.com/github/docs/tree/main/content/pull-requests): Contains documentation related to pull requests.
+  - [repositories](https://github.com/github/docs/tree/main/content/repositories): Contains documentation related to repositories.
+  - [rest](https://github.com/github/docs/tree/main/content/rest): Contains documentation related to the REST API.
+  - [search-github](https://github.com/github/docs/tree/main/content/search-github): Contains documentation related to searching GitHub.
+  - [search](https://github.com/github/docs/tree/main/content/search): Contains documentation related to search functionality.
+  - [site-policy](https://github.com/github/docs/tree/main/content/site-policy): Contains documentation related to site policies.
+  - [sponsors](https://github.com/github/docs/tree/main/content/sponsors): Contains documentation related to GitHub Sponsors.
+  - [support](https://github.com/github/docs/tree/main/content/support): Contains documentation related to support.
+  - [video-transcripts](https://github.com/github/docs/tree/main/content/video-transcripts): Contains video transcripts.
+  - [webhooks](https://github.com/github/docs/tree/main/content/webhooks): Contains documentation related to webhooks.
