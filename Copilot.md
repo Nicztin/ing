@@ -1,6 +1,6 @@
 # Github Copilot
 
-![Facebook Image](https://www.facebook.com/share/14vfsCeNN3/)
+![Alt Text](https://path-to-your-image.com/image.jpg)(https://www.facebook.com/share/14vfsCeNN3/)
 
 # Copilot Microsoft Conversation 
 
